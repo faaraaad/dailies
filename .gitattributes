@@ -1,3 +1,5 @@
+*.rtl.* text eol=crlf encoding=utf-8-bom
+
 *.ar.* text encoding=utf-8-bom
 *.he.* text encoding=utf-8-bom
 *.fa.* text encoding=utf-8-bom
